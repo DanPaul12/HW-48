@@ -1,9 +1,9 @@
 
 
 const Contact = () => {
-    <footer>
+    <div>
         <p>Contact: dan@email.com</p>
-    </footer>
+    </div>
 }
 
 export default Contact
