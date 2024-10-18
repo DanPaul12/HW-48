@@ -9,3 +9,7 @@ body{
 ul{
     list-style: none;
 }
+
+header{
+    background-image: url(sky.webp);
+}
