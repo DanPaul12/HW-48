@@ -2,4 +2,10 @@ body{
     text-align: center;
     margin: 0;
     padding: 0;
+    justify-content: center;
+    list-style: none;
+}
+
+ul{
+    list-style: none;
 }
