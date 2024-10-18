@@ -1,6 +1,7 @@
 import Header from "./header";
 import About from "./about";
 import Contact from "./contact";
+import './portfolio.css'
 
 function App() {
   
