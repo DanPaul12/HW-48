@@ -1,6 +1,6 @@
-import Header from "./header"
-import About from "./about"
-import Contact from "./contact"
+import Header from "./header";
+import About from "./about";
+import Contact from "./contact";
 
 function App() {
   
@@ -10,7 +10,7 @@ function App() {
       <About />
       <Contact />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
