@@ -6,9 +6,9 @@ function App() {
   
   return (
     <div>
-      <Header/>
-      <About/>
-      <Contact/>
+      <Header />
+      <About />
+      <Contact />
     </div>
   )
 }
